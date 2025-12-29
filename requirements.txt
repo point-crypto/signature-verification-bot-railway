@@ -1,5 +1,4 @@
-python-telegram-bot==21.6
-flask
+python-telegram-bot[webhooks]==20.7
 opencv-python-headless
 numpy
 scikit-image
