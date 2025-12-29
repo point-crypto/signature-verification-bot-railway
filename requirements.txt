@@ -1,5 +1,5 @@
-python-telegram-bot==20.7
+python-telegram-bot==21.6
+flask
 opencv-python-headless
-numpy<2.0
+numpy
 scikit-image
-matplotlib
